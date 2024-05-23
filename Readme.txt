@@ -1,7 +1,7 @@
 ## DBDO
-# DBHD: Density-based clustering for highly varying density
 
- Python implementation of [DBHD] algorithm. 
+
+ Python implementation of [DBDO] algorithm. 
 
 
 ## Environment
